@@ -4,3 +4,5 @@ Building open-ended learning agents involves challenges in pre-trained language 
 
 ## Citing OpenContra
 
+Read our [paper](https://github.com/opendilab/OpenContra/blob/pages/docs/PJ_FPS_2023.pdf) for more details.
+

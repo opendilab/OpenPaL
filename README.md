@@ -7,7 +7,9 @@ Building embodied agents on integrating Large Language Models (LLMs) and Reinfor
 
 The demonstration below illustrates a scenario of human-AI interaction in Contra. The game starts with two teams, each comprising two players. The human player collaborates with an AI player by instructing the agent to defeat a purely AI-controlled team. At the outset, our team observes that the enemies are hiding in the house at the front. Subsequently, our team approaches the house, flanking the enemies from both sides with the objective of eliminating all opponents. To ensure the success of these actions, our human player gives a series of language commands to guide the agent's actions. 
 
-https://github.com/opendilab/OpenPaL/assets/18256149/7f12a79a-bfa5-4492-9cf4-90664a4a6835
+https://github.com/opendilab/OpenPaL/assets/18256149/e6f7fc95-622c-43e6-8485-457a5124d15f
+
+
 
 ## Contra: The Environment
 

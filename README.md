@@ -4,13 +4,14 @@ Building embodied agents on integrating Large Language Models (LLMs) and Reinfor
 
 
 ## Environment & Demonstration
-<p class="text-justify">Contra seamlessly merges the last-man-standing gameplay dynamics with the survival, exploration, and scavenging elements inherent in first-person shooting games. The game unfolds with multiple hostile teams, necessitating players to collaborate with teammates, withstand adversaries, and strive to outlast others in the ever-changing arena. In Contra, the agent's action interface is designed to mirror human capabilities, encompassing basic movements and actions like moving and shooting, with action intervals around 200ms, similar to the frequency of human operations. An agent in Contra mandates a sequential acquisition of skills, starting from fundamental abilities like walking, jumping, running, and item collection. As the learning proceeds, an agent must master more intricate skills such as evading enemy projectiles and coordinating tactics with teammates. This characteristic defines an open-ended learning process where the agent continually explores the game environment to refine mastered skills and acquire new ones.</p>
 
 <p float="left">
 <img width="33%" src="https://github.com/opendilab/OpenPaL/assets/18256149/f9c1d00a-62c1-4530-a0fc-26b9c1ecc330">
 <img width="33%" src="https://github.com/opendilab/OpenPaL/assets/18256149/783c1e03-f7d6-4d89-8288-e3fae636ecaf">
 <img width="33%" src="https://github.com/opendilab/OpenPaL/assets/18256149/20cec53a-3840-4805-99a8-7fb330f0c00b">
 </p>
+
+<p class="text-justify">Contra seamlessly merges the last-man-standing gameplay dynamics with the survival, exploration, and scavenging elements inherent in first-person shooting games. The game unfolds with multiple hostile teams, necessitating players to collaborate with teammates, withstand adversaries, and strive to outlast others in the ever-changing arena. In Contra, the agent's action interface is designed to mirror human capabilities, encompassing basic movements and actions like moving and shooting, with action intervals around 200ms, similar to the frequency of human operations. An agent in Contra mandates a sequential acquisition of skills, starting from fundamental abilities like walking, jumping, running, and item collection. As the learning proceeds, an agent must master more intricate skills such as evading enemy projectiles and coordinating tactics with teammates. This characteristic defines an open-ended learning process where the agent continually explores the game environment to refine mastered skills and acquire new ones.</p>
 
 
 ## Architecture
